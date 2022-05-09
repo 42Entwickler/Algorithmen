@@ -1,5 +1,6 @@
 ﻿/*
- * Code As is. Not quality checked. Jsut for demonstration implemented.
+ * Code As is. Not quality checked and not well documented - sorry for that.
+ * Just for demonstration for the youtube videos implemented.
  * Like, Subscribe, Comment and Follow at https://www.youtube.com/c/42Entwickler
  * Code run can be found here: https://www.youtube.com/watch?v=39oIOTBvUX8
  * And here: https://www.youtube.com/watch?v=EShCwiHlnBg
